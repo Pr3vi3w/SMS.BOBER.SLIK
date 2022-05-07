@@ -10,7 +10,7 @@ import time
 def print_slow(txt):
 	   
 	   for x in txt:
-	         print(x, end='', flush=True) 
+	         print(x, end'', flush=True) 
 	         time.sleep(0.1)
 
 red='\033[31m'
