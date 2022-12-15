@@ -63,7 +63,7 @@ print(f'''
  snapj = {"cellphone":phone}
  
  
- digij = {"cellNumber":f,"device":{"deviceId":"a16e6255-17c3-431b-b047-3f66d24c286f","deviceModel":"WEB_BROWSER","deviceAPI":"WEB_BROWSER","osName":"WEB"}}
+ digij = {"cellNumber":f,"device":{"deviceId":"a16e6255-17c3-431b-b047-3f66d24c286f","deviceModel":","deviceAPI":,"osName":"}}
  
 
  
